@@ -1,0 +1,5 @@
+transformers
+PyPDF4
+fitz
+PyMuPDF
+Gunicorn
